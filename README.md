@@ -51,3 +51,4 @@ def view_settings(settings):
         output += f"{key.capitalize()}: {value}\n"
     return output
 ```
+See also: [reanalysis of my undergraduate thesis data](https://github.com/Timimi18/yam-peel-adsorption-analysis)
